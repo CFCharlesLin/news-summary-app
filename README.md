@@ -14,4 +14,4 @@ https://cfcharleslin.github.io/news-summary-app
 
 To run this locally:
 1. Clone the repository: `git clone https://github.com/CFCharlesLin/news-summary-app.git`
-2. Open `index.html` in your web browser 
+2. Open `index.html` in your web browser
